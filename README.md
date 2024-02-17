@@ -2,7 +2,7 @@
 This repository contains the code for a website called GLSports, which focuses on visualizing and enjoying different sports. The website is designed using HTML and styled with CSS.
 
 Preview
-path_to_image/carousel.png
+https://github.com/18DPEL/webpage/blob/2a09e2d6e6680bd7e366687f4f4b1c6471244a9b/carousel.jpg
 Features
 Navigation: Includes links to different sections of the website such as About Us, Indoor Sports, Outdoor Sports, and History.
 Showcase: Provides information about GLSports and its offerings, including the ability to organize and enjoy virtual sports.
